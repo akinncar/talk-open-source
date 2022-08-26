@@ -2,9 +2,7 @@
 
 ### Slides
 
-Website: https://akinncar.github.io/talk-rn-architecture-21/#0
-
-PDF: https://speakerdeck.com/akinncar/react-native-architecture-in-2021
+Website: https://akinncar.github.io/talk-open-source/#0
 
 ### Run
 
@@ -16,6 +14,18 @@ yarn
 Start localhost
 ```
 yarn start
+```
+
+### Build and publish
+
+To build and publish to Github Pages:
+
+```sh
+yarn build
+```
+
+```sh
+yarn publish:deck
 ```
 
 ### Generate PDF
