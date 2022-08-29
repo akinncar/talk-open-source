@@ -1,4 +1,4 @@
-# React Native Architecture 2021 Slides
+# Open Source Slides
 
 ### Slides
 
